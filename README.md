@@ -1,4 +1,5 @@
 # book_sales_eda_and_dashboard
+Developed an interactive Book Sales EDA Dashboard to analyze sales trends, customer preferences, and bestselling categories using Python libraries and Streamlit.
 Link for interactive dashboard: https://booksales-dashboard.streamlit.app/
 
 Introduction:
